@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1619008848537,
+  "index": "https://sumer16.github.io/pwa-tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sumer16.github.io/pwa-tic-tac-toe/favicon.ico",
+        "https://sumer16.github.io/pwa-tic-tac-toe/index.html",
+        "https://sumer16.github.io/pwa-tic-tac-toe/main-es2015.2fd55eb8c4e3dc1b3219.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/main-es5.2fd55eb8c4e3dc1b3219.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/manifest.webmanifest",
+        "https://sumer16.github.io/pwa-tic-tac-toe/polyfills-es2015.f332a089ad1600448873.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/polyfills-es5.177e85a9724683782539.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://sumer16.github.io/pwa-tic-tac-toe/styles.99f742985073b52e0205.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://sumer16.github.io/pwa-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://sumer16.github.io/pwa-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://sumer16.github.io/pwa-tic-tac-toe/index.html": "42056a7ba5c9ae9cddab1740bf85730df2326bb3",
+    "https://sumer16.github.io/pwa-tic-tac-toe/main-es2015.2fd55eb8c4e3dc1b3219.js": "eda86be36ef8beb59fa74ca5e00eb0ee54fa1e65",
+    "https://sumer16.github.io/pwa-tic-tac-toe/main-es5.2fd55eb8c4e3dc1b3219.js": "6fdf233fb48cede90c22c04478d4a7158a75e120",
+    "https://sumer16.github.io/pwa-tic-tac-toe/manifest.webmanifest": "6092debe03811b896a7efb38a79fd7b363ba51f0",
+    "https://sumer16.github.io/pwa-tic-tac-toe/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://sumer16.github.io/pwa-tic-tac-toe/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://sumer16.github.io/pwa-tic-tac-toe/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sumer16.github.io/pwa-tic-tac-toe/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sumer16.github.io/pwa-tic-tac-toe/styles.99f742985073b52e0205.css": "a65c8fddd9059236ab170e5f56331e7f9e091649"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
